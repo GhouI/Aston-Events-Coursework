@@ -1,0 +1,50 @@
+Stages of doing the coursework.
+
+Stage 1 Backend
+    -Work on creating the database (MySQL)
+    -Work on create the table. (MySQL)
+    -Work on sign up page. (PHP)
+    -Work on loginning (JS)
+    -Work on registering for events (JS)
+
+Step 2 Frontend 
+    -Work on front-page Design
+    -Work on sign up page design 
+    -Work on login page design 
+    -Work on events design 
+    -Work on view account page which shows all events registered
+
+
+
+Events:
+    Event Types: Art Event, Sport Event, History Event ()
+        Events Name:
+            Art Event: Student Arts, Cultural Art, Sculpture Art, Painting,Drawing
+            Sport Event: Football Matches, Rugby Matches, Olympics Matches, 
+            History Event: World War 2, The Plague, Plague in England
+        Event Descriptions:
+            Art Event: "Aston university students who do drawings","View different types of arts from different types of cultures.","Different Sculpture from Art museum coming into Aston."
+            Sport Event: "Watch some football matches live with other students/teachers.","Watch some rugby matches live with other students/teachers. Afterwards a rugby match is inplay.","Watch the The Olympics  with your students live."
+            History Event: "Learn about World War 2 and how it all went down.","The Plague in England and how it affected the country.","HIstory of Plague and how it started."
+        Event Organiser:
+            Art Event: "Iivari Nikostratos","Shazi Stuart","Shena Mira"
+            Sport Event:"Kokoro Mykolas","Natalie Hasna","Miron Kshitij"
+            History Event: "Gunnar Jakes","Chawwah Arcadia","Lee Gunnvaldr"
+        Event Place:
+            Art Event: "Room 200b","In the Gym","In the Hall"
+            Sport Event:"Room 100b","Room 100c","Room 100d"
+            History Event: "History department","C101","X56"
+        Event Start/End
+            Art Event: "08:30:00/08:45:00","09:30:00/10:30:00","10:30:00/10:45:00"
+            Sport Event:"06:30:00/06:45:00","07:30:00/07:45:00","09:30:00/09:45:00"
+            History Event: "12:30:00/13:00:00","11:30:00/11:50:00","10:30:00/11:30:00"
+        Event Date:
+            Art Event: "2021-06-02","2021-06-01","2021-05-02"
+            Sport Event:"2021-04-01","2021-01-02","2021-06-02"
+            History Event: "2021-09-02","2021-09-02","2021-07-02"
+
+
+
+Side notes:
+Make sure to finish the index page by adding other items.
+    

@@ -1,0 +1,2 @@
+<button class="RowButtons" title="Login in your account" onclick="location.href='./pages/login.php'">Login</button>
+<button class="RowButtons" title="Sign up in your account" onclick='location.href="./pages/signup.php"'>Sign up</button>

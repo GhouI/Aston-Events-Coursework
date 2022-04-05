@@ -1,0 +1,142 @@
+[{
+        "type": "header",
+        "version": "5.1.0",
+        "comment": "Export to JSON plugin for PHPMyAdmin"
+    },
+    {
+        "type": "database",
+        "name": "u_200119137_db"
+    },
+    {
+        "type": "table",
+        "name": "AstonEvents",
+        "database": "u_200119137_db",
+        "data": [{
+                "EventID": "1",
+                "EventType": "Art",
+                "EventName": "Student Arts",
+                "EventOrganiser": "Iivari Nikostratos",
+                "EventPlace": "Room 200b",
+                "EventDescription": "Aston university students who do drawings.",
+                "EventURL": "Coming Soon",
+                "EventCountLiked": "0",
+                "EventStartTime": "08:30:00",
+                "EventEndTime": "08:45:00",
+                "EventDate": "2021-06-02",
+                "EventStatus": "1"
+            },
+            {
+                "EventID": "2",
+                "EventType": "Art",
+                "EventName": "Cultural Art",
+                "EventOrganiser": "Shazi Stuart",
+                "EventPlace": "In the Gym",
+                "EventDescription": "View different types of arts from different types of cultures.",
+                "EventURL": "Coming Soon",
+                "EventCountLiked": "0",
+                "EventStartTime": "09:30:00",
+                "EventEndTime": "10:30:00",
+                "EventDate": "2021-06-01",
+                "EventStatus": "1"
+            },
+            {
+                "EventID": "3",
+                "EventType": "Art",
+                "EventName": "Sculpture Art",
+                "EventOrganiser": "Shena Mira",
+                "EventPlace": "In the Hall",
+                "EventDescription": "Different Sculpture from Art museum coming into Aston",
+                "EventURL": "Coming Soon",
+                "EventCountLiked": "0",
+                "EventStartTime": "10:30:00",
+                "EventEndTime": "10:45:00",
+                "EventDate": "2021-05-02",
+                "EventStatus": "1"
+            },
+            {
+                "EventID": "4",
+                "EventType": "History",
+                "EventName": "World War 2",
+                "EventOrganiser": "Gunnar Jakes",
+                "EventPlace": "History department",
+                "EventDescription": "Watch some football matches live with other students/teachers.",
+                "EventURL": "Coming Soon",
+                "EventCountLiked": "0",
+                "EventStartTime": "12:30:00",
+                "EventEndTime": "13:00:00",
+                "EventDate": "2021-09-02",
+                "EventStatus": "1"
+            },
+            {
+                "EventID": "5",
+                "EventType": "History",
+                "EventName": "The Plague",
+                "EventOrganiser": "Chawwah Arcadia",
+                "EventPlace": "C101",
+                "EventDescription": "The Plague in England and how it affected the country.",
+                "EventURL": "Coming Soon",
+                "EventCountLiked": "0",
+                "EventStartTime": "11:30:00",
+                "EventEndTime": "11:50:00",
+                "EventDate": "2021-09-02",
+                "EventStatus": "1"
+            },
+            {
+                "EventID": "6",
+                "EventType": "History",
+                "EventName": "Plague in England",
+                "EventOrganiser": "Lee Gunnvaldr",
+                "EventPlace": "X56",
+                "EventDescription": "History of Plague and how it started.",
+                "EventURL": "Coming Soon",
+                "EventCountLiked": "0",
+                "EventStartTime": "10:30:00",
+                "EventEndTime": "11:30:00",
+                "EventDate": "2021-07-02",
+                "EventStatus": "1"
+            },
+            {
+                "EventID": "7",
+                "EventType": "Sport",
+                "EventName": "Football Matches",
+                "EventOrganiser": "Kokoro Mykolas",
+                "EventPlace": "Room 100b",
+                "EventDescription": "Watch some football matches live with other students/teachers",
+                "EventURL": "Coming Soon",
+                "EventCountLiked": "0",
+                "EventStartTime": "06:30:00",
+                "EventEndTime": "06:45:00",
+                "EventDate": "2021-04-01",
+                "EventStatus": "1"
+            },
+            {
+                "EventID": "8",
+                "EventType": "Sport",
+                "EventName": "Rugby Matches",
+                "EventOrganiser": "Natalie Hasna",
+                "EventPlace": "Room 100c",
+                "EventDescription": "Watch some rugby matches live with other students/teachers. Afterwards a rugby match is inplay",
+                "EventURL": "Coming Soon",
+                "EventCountLiked": "0",
+                "EventStartTime": "07:30:00",
+                "EventEndTime": "08:30:00",
+                "EventDate": "2021-01-02",
+                "EventStatus": "1"
+            },
+            {
+                "EventID": "9",
+                "EventType": "Sport",
+                "EventName": "Olympics Matches",
+                "EventOrganiser": "Miron Kshitij",
+                "EventPlace": "Room 100d",
+                "EventDescription": "Watch the The Olympics  with your students live.",
+                "EventURL": "Coming Soon",
+                "EventCountLiked": "0",
+                "EventStartTime": "09:30:00",
+                "EventEndTime": "09:45:00",
+                "EventDate": "2021-06-02",
+                "EventStatus": "1"
+            }
+        ]
+    }
+]
